@@ -211,6 +211,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'WhatsApp Image 2025-03-29 at 2.38.32 PM.jpeg': 'https://i.ibb.co/B2t8W8n1/Whats-App-Image-2025-03-29-at-2-38-32-PM.jpg',
         'WhatsApp Image 2025-03-29 at 2.52.42 PM.jpeg': 'https://i.ibb.co/n8zNDs5K/Whats-App-Image-2025-03-29-at-2-52-42-PM.jpg',
         'WhatsApp Image 2025-03-29 at 9.23.20 AM.jpeg': 'https://i.ibb.co/V0nSSHD7/Whats-App-Image-2025-03-29-at-9-23-20-AM.jpg',
+        'WhatsApp Image 2025-03-29 at 6.39.49 PM.jpeg': 'https://i.ibb.co/5gfBpXf3/Whats-App-Image-2025-03-29-at-6-39-49-PM.jpg',
+        'WhatsApp Image 2025-03-29 at 7.12.17 PM.jpeg': 'https://i.ibb.co/P7J5WyB/Whats-App-Image-2025-03-29-at-7-12-17-PM.jpg',
+        'WhatsApp Image 2025-03-29 at 7.11.23 PM.jpeg':'https://i.ibb.co/HL5yjDjY/Whats-App-Image-2025-03-29-at-7-11-23-PM.jpg'
     };
     
     document.querySelectorAll('img').forEach(img => {
