@@ -204,11 +204,13 @@ document.addEventListener('DOMContentLoaded', function() {
         'testimonial-1.jpg': 'https://via.placeholder.com/60x60?text=T1',
         'testimonial-2.jpg': 'https://via.placeholder.com/60x60?text=T2',
         'testimonial-3.jpg': 'https://via.placeholder.com/60x60?text=T3',
-        'partner-1.png': 'https://via.placeholder.com/150x80?text=Partner+1',
-        'partner-2.png': 'https://via.placeholder.com/150x80?text=Partner+2',
-        'partner-3.png': 'https://via.placeholder.com/150x80?text=Partner+3',
-        'partner-4.png': 'https://via.placeholder.com/150x80?text=Partner+4',
-        'partner-5.png': 'https://via.placeholder.com/150x80?text=Partner+5',
+        'DSC_8600.JPG': 'https://i.ibb.co/xZdRCkw/DSC-8600.jpg',
+/*partners*/
+        'image (3).png': 'https://i.ibb.co/B50YPdL6/image-3.png',
+        'WhatsApp Image 2025-03-29 at 1.51.45 PM.jpeg': 'https://i.ibb.co/RkwHj3J9/Whats-App-Image-2025-03-29-at-1-51-45-PM.jpg',
+        'WhatsApp Image 2025-03-29 at 2.38.32 PM.jpeg': 'https://i.ibb.co/B2t8W8n1/Whats-App-Image-2025-03-29-at-2-38-32-PM.jpg',
+        'WhatsApp Image 2025-03-29 at 2.52.42 PM.jpeg': 'https://i.ibb.co/n8zNDs5K/Whats-App-Image-2025-03-29-at-2-52-42-PM.jpg',
+        'WhatsApp Image 2025-03-29 at 9.23.20 AM.jpeg': 'https://i.ibb.co/V0nSSHD7/Whats-App-Image-2025-03-29-at-9-23-20-AM.jpg',
     };
     
     document.querySelectorAll('img').forEach(img => {
