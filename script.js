@@ -197,7 +197,7 @@ serviceCards.forEach(card => {
 document.addEventListener('DOMContentLoaded', function() {
     // Replace with actual images in production
     const imagePlaceholders = {
-        'ku-gate.jpg': 'https://via.placeholder.com/600x400?text=KU+Gate',
+        'image.png': 'https://i.ibb.co/whHq7TkZ/image.jpg',
         'success-story-1.jpg': 'https://news.switchtv.ke/wp-content/uploads/2022/09/SME-SFA-_1_.webp',
         'success-story-2.jpg': 'https://etimg.etb2bimg.com/photo/85061939.cms',
         'success-story-3.jpg': 'https://cdn.prod.website-files.com/638fbebd8e0e6eae1b003afb/63ab1ebe785d7f9cecf9ba75_60998c41f509a7702e32a952_1*ujsvTUeEe5w-bzTxqIYI6w.jpeg',
